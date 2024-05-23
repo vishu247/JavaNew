@@ -1,0 +1,7 @@
+com/joesalt/tutorial/TutorialApplication.class
+com/joesalt/tutorial/repository/ProductRepository.class
+com/joesalt/tutorial/controller/HealthController.class
+com/joesalt/tutorial/security/ProjectSecurityConfig.class
+com/joesalt/tutorial/controller/ProductController.class
+com/joesalt/tutorial/model/Product.class
+com/joesalt/tutorial/service/ProductService.class
